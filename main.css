@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  height: 100%;
+  align-items: center;
+  justify-content: center;  
+  flex-direction: column;
+}
+
+h1 { 
+  font-size: 2rem;
+  text-align: center;
+}
+
+img { 
+  margin-top: 2rem;
+  max-width: 25%;
+}
